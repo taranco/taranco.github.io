@@ -1,0 +1,1 @@
+User-agent: * Disallow: Sitemap: https://taranco.github.io/sitemap.xml
