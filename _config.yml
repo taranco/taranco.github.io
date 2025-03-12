@@ -233,17 +233,14 @@ defaults:
       type: "pages"
     values:
       sitemap: true   # Enable sitemap for root page (about)
-
   - scope:
       path: "publications"
     values:
       sitemap: true   # Enable sitemap for Publications page
-
-defaults:
   - scope:
       path: "assets"
     values:
-      sitemap: false
+      sitemap: false # Ensure assets are excluded
 
 sass:
   style: compressed
