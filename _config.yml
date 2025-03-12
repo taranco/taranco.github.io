@@ -2,14 +2,15 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: "Raúl Taranco - Computer Architecture Researcher" # Clear and SEO-friendly title
 first_name: Raúl
 middle_name:
 last_name: Taranco
 contact_note: >
   The best way to reach me is via email.
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+description: > # Optimized for search engines and visitors
+  Raúl Taranco is a researcher specializing in computer architecture, performance optimization, and hardware-software co-design.
+  His work focuses on high-performance computing, microarchitecture, and emerging computing paradigms.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -72,7 +73,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 # For Google Analytics, see https://support.google.com/analytics/answer/10447272?hl=en&ref_topic=14088998&sjid=5129943941510317771-SA#zippy=%2Cgoogle-sites
 # and follow the instructions for Google Sites. You will need to create a Google Analytics property and copy the Google tag ID.
-google_analytics: # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
+google_analytics: ENV['GA_TRACKING_ID'] # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
 cronitor_analytics: # cronitor RUM analytics site ID (format: XXXXXXXXX)
 pirsch_analytics: # your Pirsch analytics site ID (length 32 characters)
 openpanel_analytics: # your Openpanel analytics client ID (format: XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX)
@@ -222,6 +223,22 @@ plugins:
   - jemoji
 
 # Sitemap settings
+defaults:
+  - scope:
+      path: ""
+    values:
+      sitemap: false  # Disable sitemap for all pages by default
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      sitemap: true   # Enable sitemap for root page (about)
+
+  - scope:
+      path: "publications"
+    values:
+      sitemap: true   # Enable sitemap for Publications page
+
 defaults:
   - scope:
       path: "assets"
