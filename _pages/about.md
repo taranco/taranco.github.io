@@ -9,8 +9,6 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>D6-119</p>
-    <p>C/Jordi Girona, 1</p>
     <p>Barcelona, Spain</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
