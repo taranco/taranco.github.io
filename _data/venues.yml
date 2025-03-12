@@ -1,9 +1,34 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"ISCA":
+  url: https://iscaconf.org/
+  color: "#007ACC"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"MICRO":
+  url: https://microarch.org/
+  color: "#BD1708"
 
-"Vision":
-  color: "#009f36"
+"HPCA":
+  url: https://hpca-conf.org/
+  color: "#2E8B57"
+
+"ICS":
+  url: https://www.ics-conference.org/
+  color: "#6A0DAD"
+
+"PACT":
+  url: https://dl.acm.org/conference/pact
+  color: "#800080"
+
+"JPDC":
+  url: https://www.sciencedirect.com/journal/journal-of-parallel-and-distributed-computing
+  color: "#005F6B"
+
+"SBAC-PAD":
+  url: https://www2.sbc.org.br/ce-acpad/sbac-pad/
+  color: "#D35400"
+
+"CAV":
+  url: https://sites.google.com/g.harvard.edu/cav-micro22/
+  color: "#D35400"
+
+"PhD":
+  color: "#E6C27A"
