@@ -1,0 +1,56 @@
+# Raul Taranco
+
+> Computer architecture researcher at Huawei Research in Zurich. Builds performance models for early system design, focused on CPUs and memory. Currently interested in optimizations that cross layers of the computing stack, and in using AI agents to find them.
+
+Also written as Raúl Taranco. Contact details are on https://taranco.github.io/ and in the CV.
+
+## Research areas
+
+- CPU and memory performance modeling (HBM, CXL)
+- Cross-layer co-design, within hardware and across hardware and software
+- Hardware for computer vision (image signal processors, accelerators, vector extensions)
+- AI agents for architecture research (design exploration, simulator calibration)
+
+## Experience
+
+- 2025–present: Researcher, Computer Architecture, Huawei Research, Zurich, Switzerland
+- 2025–present: Research Collaborator, ARCO Group, Universitat Politècnica de Catalunya (UPC), Barcelona; ray-tracing hardware; co-supervises a Ph.D. student
+- 2024–present: AI Committee Member (part-time), Medidedalia, Barcelona
+- 2024–2025: Postdoctoral Researcher, ARCO Group, UPC, Barcelona
+- 2023: Visiting Researcher, Edge Computing Lab, Harvard University, hosted by Vijay Janapa Reddi
+- 2019–2024: Ph.D. Researcher (FPU Fellow), ARCO Group, UPC, Barcelona
+
+## Education
+
+- Ph.D. in Computer Architecture (Cum Laude), UPC, 2024. Advisors: Antonio González and José-María Arnau
+- M.S. in Computer Engineering and High Performance Computing, UPC, 2019
+- B.S. in Computer Science, Universidad de Cantabria, 2016
+
+## Publications
+
+- [Aneto: Predicting System Performance by Exploiting Cross-Workload Regularity](https://arxiv.org/abs/2608.07179). R. Taranco, R. Mueller, M. Giardino. MICRO 2026. ACM artifact badges: Available, Functional, Reproduced
+- MVP: A Motion-Predictive Speculative Vision Pipeline with Non-Blocking Drift Correction. R. Taranco, A. González. MICRO 2026
+- [IRIS: Unleashing ISP-Software Cooperation to Optimize the Machine Vision Pipeline](https://doi.org/10.1109/HPCA61900.2025.00028). R. Taranco, J.-M. Arnau, A. González. HPCA 2025. HiPEAC Paper Award
+- [SLIDEX: A Novel Architecture for Sliding Window Processing](https://doi.org/10.1145/3650200.3656613). R. Taranco, J.-M. Arnau, A. González. ICS 2024
+- [δLTA (Delta-LTA): Decoupling Camera Sampling from Processing to Avoid Redundant Computations in the Vision Pipeline](https://doi.org/10.1145/3613424.3614261). R. Taranco, J.-M. Arnau, A. González. MICRO 2023. HiPEAC Paper Award
+- [SLIDEX: Sliding Window Extension for Image Processing](https://doi.org/10.1109/PACT58117.2023.00039). R. Taranco, J.-M. Arnau, A. González. PACT 2023 (short paper and poster)
+- [LOCATOR: Low-Power ORB Accelerator for Autonomous Cars](https://doi.org/10.1016/j.jpdc.2022.12.005). R. Taranco, J.-M. Arnau, A. González. Journal of Parallel and Distributed Computing, 2023
+- [Sliding Window Support for Image Processing in Autonomous Vehicles](https://upcommons.upc.edu/bitstream/handle/2117/377029/CAV22_paper_3546-3.pdf?sequence=1). R. Taranco, J.-M. Arnau, A. González. CAV workshop at MICRO 2022
+- [A Low-Power Hardware Accelerator for ORB Feature Extraction in Self-Driving Cars](https://doi.org/10.1109/SBAC-PAD53543.2021.00013). R. Taranco, J.-M. Arnau, A. González. SBAC-PAD 2021
+
+## Service and awards
+
+- Program committee: MICRO 2026, HPCA 2027
+- Reviewer: IEEE Computer Architecture Letters, IEEE Access
+- 2026: Huawei Director's Award for Arm SME kernel work in Huawei's production BLAS library
+- 2025, 2023: HiPEAC Paper Awards (HPCA 2025, MICRO 2023)
+- 2019: FPU Ph.D. Fellowship, Spanish Ministry of Education
+
+## Links
+
+- [Website](https://taranco.github.io/)
+- [CV (PDF)](https://taranco.github.io/assets/pdf/raul_taranco_CV.pdf)
+- [Google Scholar](https://scholar.google.com/citations?user=E4FGZdQAAAAJ)
+- [DBLP](https://dblp.org/pid/309/6675.html)
+- [ORCID](https://orcid.org/0000-0002-1564-4365)
+- [LinkedIn](https://www.linkedin.com/in/raul-taranco)
