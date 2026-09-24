@@ -29,7 +29,7 @@ Also written as Raúl Taranco. Contact details are on https://taranco.github.io/
 ## Publications
 
 - [Aneto: Predicting System Performance by Exploiting Cross-Workload Regularity](https://arxiv.org/abs/2608.07179). R. Taranco, R. Mueller, M. Giardino. MICRO 2026. ACM artifact badges: Available, Functional, Reproduced
-- MVP: A Motion-Predictive Speculative Vision Pipeline with Non-Blocking Drift Correction. R. Taranco, A. González. MICRO 2026
+- [MVP: A Motion-Predictive Speculative Vision Pipeline with Non-Blocking Drift Correction](https://arxiv.org/abs/2609.27706). R. Taranco, A. González. MICRO 2026
 - [IRIS: Unleashing ISP-Software Cooperation to Optimize the Machine Vision Pipeline](https://doi.org/10.1109/HPCA61900.2025.00028). R. Taranco, J.-M. Arnau, A. González. HPCA 2025. HiPEAC Paper Award
 - [SLIDEX: A Novel Architecture for Sliding Window Processing](https://doi.org/10.1145/3650200.3656613). R. Taranco, J.-M. Arnau, A. González. ICS 2024
 - [δLTA (Delta-LTA): Decoupling Camera Sampling from Processing to Avoid Redundant Computations in the Vision Pipeline](https://doi.org/10.1145/3613424.3614261). R. Taranco, J.-M. Arnau, A. González. MICRO 2023. HiPEAC Paper Award
